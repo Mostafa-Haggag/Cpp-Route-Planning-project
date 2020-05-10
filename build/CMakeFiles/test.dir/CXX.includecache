@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/model.h
+vector
+-
+unordered_map
+-
+string
+-
+cstddef
+-
+
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/route_model.h
+limits
+-
+cmath
+-
+unordered_map
+-
+model.h
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/model.h
+iostream
+-
+
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/route_planner.cpp
+route_planner.h
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/route_planner.h
+algorithm
+-
+
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/route_planner.h
+iostream
+-
+vector
+-
+string
+-
+route_model.h
+/media/mostafahaggag/0E22BAB022BA9BE1/torrentfinal/UDACITY_C++_course/FInalProject/CppND-Route-Planning-Project/src/route_model.h
+
